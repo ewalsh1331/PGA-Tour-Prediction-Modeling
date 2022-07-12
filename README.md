@@ -1,5 +1,7 @@
 # PGA-Tour-Prediction-Modeling
 
+The goal of this project is to create a model that can predict golfer performance in a certain round. Then, I wanted to see if this model could be leveraged to create further insights. My main concern on this front was understanding if course fit was important, and if any insights could be found on that front. 
+
 1. Data Imports:
   Import the data from the DataGolf.com API. Processes the data from JSON into pandas then eventually saves as CSV. Should work for all future updates to the dataset. Notes on the dataset can be found here: https://datagolf.com/api-access. 
 NOTE: for this file to work, need a datagolf.com subscription. 
